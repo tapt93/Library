@@ -1,0 +1,12 @@
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\bin\Release\net5.0\GenericSqlHelper.deps.json
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\bin\Release\net5.0\GenericSqlHelper.dll
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\bin\Release\net5.0\ref\GenericSqlHelper.dll
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\bin\Release\net5.0\GenericSqlHelper.pdb
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.csprojAssemblyReference.cache
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.AssemblyInfoInputs.cache
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.AssemblyInfo.cs
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.csproj.CoreCompileInputs.cache
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.dll
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\ref\GenericSqlHelper.dll
+D:\Project\Library\GenericSqlHelper\GenericSqlHelper\obj\Release\net5.0\GenericSqlHelper.pdb
